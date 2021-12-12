@@ -1,2 +1,3 @@
-# IPlugEffect
-A basic volume control effect plug-in with IGraphics GUI
+#README
+
+Higher-Order Sobolev Diffusion method implemented in IPlug2. WIP
